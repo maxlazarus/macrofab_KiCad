@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10118193-0001LF
+D micro/mini connector
+K USB USB_OTG USB_mini USB_micro
+F https://s3.amazonaws.com/devpublic1/datasheets/10118193AC-197151.pdf
+$ENDCMP
+#
+$CMP BSS138
+D Transistor N-MOSFET +/-20Vgs 50Vds
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP BSS84
+D Transistor P-MOSFET +/-20Vgs -50Vds
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+#End Doc Library
